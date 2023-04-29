@@ -10,8 +10,8 @@ Make sure your work meets the full list of grading requirements.
 Follow the instructions to submit your Challenge for review.
 
 ## Challenge Screenshots
-![image](Develop/assets/images/1.png)
-![image](Develop/assets/images/2.png)
+![image](module-1-challenge/Develop/assets/images/1.png)
+![image](module-1-challenge/Develop/assets/images/2.png)
 
 ## User Story
 ~~~
