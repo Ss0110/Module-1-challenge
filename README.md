@@ -34,3 +34,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ~~~
+
+### Link to deployed URL
+
+[Deployed URL](https://ss0110.github.io/module-1-challenge/)
+
+[Github](https://github.com/Ss0110/module-1-challenge.git)
