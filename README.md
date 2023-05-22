@@ -1,6 +1,7 @@
 # module-1-challenge
 
 ## Challenge Description
+
 Clone your starter codeLinks to an external site..
 
 Refactor the code to meet the Acceptance Criteria.
@@ -10,18 +11,21 @@ Make sure your work meets the full list of grading requirements.
 Follow the instructions to submit your Challenge for review.
 
 ## Challenge Screenshots
-![image](module-1-challenge/Develop/assets/images/1.png)
-![image](module-1-challenge/Develop/assets/images/2.png)
+
+![image](Develop/assets/images/1.png)
+![image](Develop/assets/images/2.png)
 
 ## User Story
-~~~
+
+```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-~~~
+```
 
 ## Acceptance Criteria
-~~~
+
+```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -33,7 +37,7 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-~~~
+```
 
 ### Link to deployed URL
 
