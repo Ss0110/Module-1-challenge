@@ -12,8 +12,8 @@ Follow the instructions to submit your Challenge for review.
 
 ## Challenge Screenshots
 
-![image](Develop/assets/images/1.png)
-![image](Develop/assets/images/2.png)
+![image](assets/images/1.png)
+![image](assets/images/2.png)
 
 ## User Story
 
