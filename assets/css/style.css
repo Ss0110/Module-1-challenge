@@ -1,6 +1,4 @@
-/* with changing div tags in html to other tags we were able condense the code 
-in our styling and we didnt have to or example have to create a section for each img or each h2 or each h3 */
-
+/* Global Styles */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -11,11 +9,15 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header Styles */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
+}
+nav {
+    float: right;
 }
 
 h1 {
@@ -28,10 +30,12 @@ a {
     text-decoration: none;
 }
 
+/* Paragraph Styles */
 p {
     font-size: 16px;
 }
 
+/* Menu Styles */
 menu {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,12 +50,14 @@ li {
     margin-left: 25px;
 }
 
+/* Section Styles */
 section {
-   width: 75%;
-   display: inline-block;
-   margin-left: 20px;
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
+/* Article Styles */
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -68,9 +74,9 @@ article img {
 article h2 {
     margin-bottom: 20px;
     font-size: 36px;
-
 }
 
+/* Aside Styles */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -93,11 +99,13 @@ aside img {
     max-width: 150px;
 }
 
+/* Heading Styles */
 h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* Footer Styles */
 footer {
     padding: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -108,9 +116,10 @@ footer h2 {
     font-size: 20px;
 }
 
+/* Additional Styles */
 .seo {
     color: #d9dcd6;
-} 
+}
 
 .hero {
     height: 800px;
